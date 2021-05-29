@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610800018 source:d:\codeblocks\bipartite_graph\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
